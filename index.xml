@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Projects on Home Page</title>
+    <link>https://mightyjasper.github.io/Yab_Portfolio/</link>
+    <description>Recent content in Data Science Projects on Home Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Jul 2022 11:00:59 -0400</lastBuildDate><atom:link href="https://mightyjasper.github.io/Yab_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 2: Second Project</title>
+      <link>https://mightyjasper.github.io/Yab_Portfolio/post/project-2/</link>
+      <pubDate>Sun, 17 Jul 2022 11:00:59 -0400</pubDate>
+      
+      <guid>https://mightyjasper.github.io/Yab_Portfolio/post/project-2/</guid>
+      <description>Coming soon!</description>
+    </item>
+    
+    <item>
+      <title>Project 1: First Project</title>
+      <link>https://mightyjasper.github.io/Yab_Portfolio/post/project-1/</link>
+      <pubDate>Sat, 16 Jul 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://mightyjasper.github.io/Yab_Portfolio/post/project-1/</guid>
+      <description>Coming soon!</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://mightyjasper.github.io/Yab_Portfolio/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mightyjasper.github.io/Yab_Portfolio/about/</guid>
+      <description>My name is Yeabsira T. Bekele. I am an aspiring data scientist who is and will forever be obsessed with using data science tools to unravel the mysteries hunting the fields of Biology and Physics, and hope to unravel the grander mysteries of our universe. To that end, I am eagerly in pursuit of trading sleep with persistent study sessions in hopes of putting forth significant contributions to the collective effort.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://mightyjasper.github.io/Yab_Portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mightyjasper.github.io/Yab_Portfolio/contact/</guid>
+      <description>Follow me on these social media platforms and let&amp;rsquo;s connect.
+Platforms URL Github: https://github.com/MightyJasper Linkedin: https://linkedin.com/in/yeabsira-tadesse-3a8baa1a1/ </description>
+    </item>
+    
+  </channel>
+</rss>

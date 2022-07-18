@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Home Page</title>
+    <link>https://mightyjasper.github.io/Yab_Portfolio/post/</link>
+    <description>Recent content in Projects on Home Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 Jul 2022 12:00:00 -0500</lastBuildDate><atom:link href="https://mightyjasper.github.io/Yab_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 2: Second Project</title>
+      <link>https://mightyjasper.github.io/Yab_Portfolio/post/project-2/</link>
+      <pubDate>Sun, 17 Jul 2022 11:00:59 -0400</pubDate>
+      
+      <guid>https://mightyjasper.github.io/Yab_Portfolio/post/project-2/</guid>
+      <description>Coming soon!</description>
+    </item>
+    
+    <item>
+      <title>Project 1: First Project</title>
+      <link>https://mightyjasper.github.io/Yab_Portfolio/post/project-1/</link>
+      <pubDate>Sat, 16 Jul 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://mightyjasper.github.io/Yab_Portfolio/post/project-1/</guid>
+      <description>Coming soon!</description>
+    </item>
+    
+  </channel>
+</rss>
